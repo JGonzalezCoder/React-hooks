@@ -1,0 +1,5 @@
+Ventajas:
+
+	- Te permite trabajar de una manera mas facil, sencilla y amigable con las herramientas del motor o nucleo de React.
+
+Desventajas:
